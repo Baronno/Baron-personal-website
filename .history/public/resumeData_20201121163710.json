@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name":"Baron Zhou",
+    "occupation":"a front end developer position",
+    "description":"I have earned a master’s degree in IT field and my studies cantered on mathematics, web design, database design. ",
+    "image":"profilepic.jpg",
+    "bio":" I am proficient in HTML5 and CSS3. I have a basic knowledge of several scripting languages, structured programming languages and knowledge of jQuery. I also have knowledge of system development, MySQL, JavaScript and React.",
+    "contactmessage":"Welcome to contact with me",
+    "email": "falconhui8@gmail.com",
+    "phone": "0424-790-118",
+    "address":{
+      "street":"12A Mcleod St Hursville",
+      "city":"Sydney",
+      "state":"NSW",
+      "zip": "2220"
+    },
+    "website": "https://clever-hangar-282201.df.r.appspot.com/",
+  
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/renhui.zhou",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Baronno",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Technology Sydney",
+        "degree":"Masters in software system engineeruing",
+        "graduated":"Oct 2019",
+        "description":"Key learning areas: Web design and internet programming, SQL database and data prediction."
+      },
+      {
+        "school":"Hei Long Jiang University",
+        "degree":"Bachelor of Electronic Engineering",
+        "graduated":"June 2012",
+        "description":"Key learning areas included: semiconductor design and Single-chip microcomputer."
+      }
+    ],
+    "work":[
+      {
+        "company":"Xingkaili company",
+        "title":"Technician Support ",
+        "years":"Oct 2016 - Jan 2017",
+        "description":" I was responsible for the front end development and the Software setup"
+      },
+      {
+        "company":"Youwen education company",
+        "title":" Customer service",
+        "years":"  May 2016 – Sep 2016 ",
+        "description":"I was mainly responsible for consultation."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git-control",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [ 
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":"https://clever-hangar-282201.df.r.appspot.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Cease to struggle and you cease to live",
+        "user":"Thomas Carlyle"
+      },
+      {
+        "text":"A strong man will struggle with the storms of fate",
+        "user":"Thomas Addison"
+      }
+    ]
+  }
+}
