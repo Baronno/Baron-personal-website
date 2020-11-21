@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Baronno/Baron-personal-website.git/static/css/main.5facb584.chunk.css",
+    "main.js": "/Baronno/Baron-personal-website.git/static/js/main.9a518513.chunk.js",
+    "main.js.map": "/Baronno/Baron-personal-website.git/static/js/main.9a518513.chunk.js.map",
+    "runtime-main.js": "/Baronno/Baron-personal-website.git/static/js/runtime-main.5359e314.js",
+    "runtime-main.js.map": "/Baronno/Baron-personal-website.git/static/js/runtime-main.5359e314.js.map",
+    "static/js/2.70e43af7.chunk.js": "/Baronno/Baron-personal-website.git/static/js/2.70e43af7.chunk.js",
+    "static/js/2.70e43af7.chunk.js.map": "/Baronno/Baron-personal-website.git/static/js/2.70e43af7.chunk.js.map",
+    "index.html": "/Baronno/Baron-personal-website.git/index.html",
+    "precache-manifest.be386a6cef6e6b90377eef4be2d8c332.js": "/Baronno/Baron-personal-website.git/precache-manifest.be386a6cef6e6b90377eef4be2d8c332.js",
+    "service-worker.js": "/Baronno/Baron-personal-website.git/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/Baronno/Baron-personal-website.git/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.70e43af7.chunk.js.LICENSE.txt": "/Baronno/Baron-personal-website.git/static/js/2.70e43af7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5359e314.js",
+    "static/js/2.70e43af7.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.9a518513.chunk.js"
+  ]
+}
