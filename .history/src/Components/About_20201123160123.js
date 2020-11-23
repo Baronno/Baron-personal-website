@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 
 
-
 class About extends Component {
 
 
@@ -47,7 +46,7 @@ class About extends Component {
                      </div>
                      <div className="columns download">
                         <p>
-                        <a href= "../baron.pdf"><button> CVdownload</button>  </a>
+                        
                         </p>
                      </div>
                   </div>

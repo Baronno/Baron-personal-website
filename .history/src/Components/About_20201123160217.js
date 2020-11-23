@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import cv from ../cv
 
 
 
@@ -47,7 +47,7 @@ class About extends Component {
                      </div>
                      <div className="columns download">
                         <p>
-                        <a href= "../baron.pdf"><button> CVdownload</button>  </a>
+                        <a href= "../baron Z.pdf"><button> CVdownload</button>  </a>
                         </p>
                      </div>
                   </div>

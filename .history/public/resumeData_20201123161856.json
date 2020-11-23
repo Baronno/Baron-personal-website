@@ -2,9 +2,9 @@
   "main": {
     "name":"Baron Zhou",
     "occupation":"the front end developer position",
-    "description":"I have earned a master’s degree in IT field and my studies cantered on web design, database design. ",
+    "description":"I have earned a master’s degree in IT field and my studies cantered on mathematics, web design, database design. ",
     "image":"profilepic.jpg",
-    "bio":" I am a fast learning team player who can always achieve the goal with effiency. I am proficient in HTML5 and CSS3. I have a basic knowledge of several scripting languages, structured programming languages and knowledge of jQuery.",
+    "bio":" I am proficient in HTML5 and CSS3. I have a basic knowledge of several scripting languages, structured programming languages and knowledge of jQuery. I also have knowledge of system development, MySQL, JavaScript and React.",
     "contactmessage":"Welcome to contact with me",
     "email": "falconhui8@gmail.com",
     "phone": "0424-790-118",

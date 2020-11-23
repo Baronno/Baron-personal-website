@@ -1,5 +1,5 @@
 {
-  
+  "homepage": "localhost:3000",
   "name": "resume-app",
   "version": "0.1.0",
   "private": true,
